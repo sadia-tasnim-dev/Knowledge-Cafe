@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.postimg.cc/j2YG29hk/2.png",
+    "title": "The Art of Machine Learning: A Beginner's Guide",
+    "author": "John Smith",
+    "author_img": "https://i.postimg.cc/Hn0Fy2ZW/boy1.png",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 15,
+    "hashtags": ["sciencefiction", "mystery", "space"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.postimg.cc/ZKZGhGnW/1.jpg",
+    "title": "Understanding Blockchain Technology: A Comprehensive Overview",
+    "author": "Emily Brown",
+    "author_img": "https://i.postimg.cc/qML9B16j/boy2.jpg",
+    "posted_date": "Mar 17 (8 Days ago)",
+    "reading_time": 14,
+    "hashtags": ["fantasy", "magic", "adventure"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.postimg.cc/wjjn1DhH/3.png",
+    "title": "The Rise of Artificial Intelligence in Healthcare",
+    "author": "Michael Johnson",
+    "author_img": "https://i.postimg.cc/htZ6Thrm/girl1.jpg",
+    "posted_date": "Mar 19 (11 Days ago)",
+    "reading_time": 8,
+    "hashtags": ["thriller", "noir", "detective"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.postimg.cc/L4jcw99d/4.jpg",
+    "title": "Exploring Quantum Computing: The Next Frontier",
+    "author": "Sophia Lee",
+    "author_img": "https://i.postimg.cc/rpdbJcnP/girl2.jpg",
+    "posted_date": "Mar 13 (4 Days ago)",
+    "reading_time": 20,
+    "hashtags": ["romance", "historical", "timeless"]
+  }
+]
