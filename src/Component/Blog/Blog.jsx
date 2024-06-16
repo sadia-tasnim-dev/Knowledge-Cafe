@@ -2,6 +2,7 @@ import { FiBookmark } from "react-icons/fi";
 
 export const Blog = ({ blog, handleBookmarks, handleReading }) => {
   const {
+    id,
     cover,
     title,
     author,
@@ -43,7 +44,7 @@ export const Blog = ({ blog, handleBookmarks, handleReading }) => {
         ))}
       </p>
       <button
-        onClick={() => handleReading(reading_time)}
+        onClick={() => handleReading(id, reading_time)}
         className="text-indigo-600 font-bold underline mb-12"
       >
         Mark as read
